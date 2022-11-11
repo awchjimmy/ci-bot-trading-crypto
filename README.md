@@ -1,2 +1,3 @@
-# ci-bot-trading-crypto
-🤖: Why not?
+# ci-bot-trading-crypto 🤖
+> If CI bots are good at building projects, running unit test, even finding security bugs...  
+Why not let it participate in trading crypto?
